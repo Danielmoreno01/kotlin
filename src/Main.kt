@@ -1,7 +1,7 @@
 fun main() {
     println("Hola Mundo!")
-    println("Primer ejercicio Kotlin!")
-    println ("como cambio el name de user de Github")
+    println("Soy Daniel Moreno!")
+    println ("Uno de mis pasatiempos favoritos es montar bicicleta")
 
 
 }
